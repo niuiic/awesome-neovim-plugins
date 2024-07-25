@@ -14,6 +14,10 @@ Neovim + Linux = Best Almighty IDE
 
 Neovim utils.
 
+### [niuiic/todo.nvim](https://github.com/niuiic/todo.nvim)
+
+- Simple but powerful todo manager based on text.
+
 ### [niuiic/task.nvim](https://github.com/niuiic/task.nvim)
 
 - Task manager for neovim.
