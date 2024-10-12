@@ -10,7 +10,7 @@ Neovim + Linux = Best Almighty IDE
 
 ## Plugins
 
-### [niuiic/core.nvim](https://github.com/niuiic/omega.nvim)
+### [niuiic/omega.nvim](https://github.com/niuiic/omega.nvim)
 
 Neovim utils.
 
