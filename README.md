@@ -115,6 +115,6 @@ Edit a part of a file individually.
 
 Utilities for neovim window.
 
-### [niuiic/lsp-utils.nvim](https://github.com/niuiic/lsp-utils.nvim)
+### [niuiic/lsp-commands.nvim](https://github.com/niuiic/lsp-commands.nvim)
 
-Utilities for neovim lsp.
+Lsp commands manager.
