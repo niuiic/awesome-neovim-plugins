@@ -77,9 +77,9 @@ Take a picture of the code.
 - Multiple translate engine: invoke any translation engine via shell command.
 - Async job: never block your work.
 
-### [niuiic/fcitx.nvim](https://github.com/niuiic/fcitx.nvim)
+### [niuiic/im-switch.nvim](https://github.com/niuiic/im-switch.nvim)
 
-Automatically switch fcitx input method.
+Automatically switch input method.
 
 ### [niuiic/typst-preview.nvim](https://github.com/niuiic/typst-preview.nvim)
 
